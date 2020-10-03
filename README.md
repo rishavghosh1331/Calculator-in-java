@@ -1,2 +1,3 @@
-# Calculator-in-java
-Make Calculator Using Java
+# Very-Simple-Java-Calculator
+For beginners 4 operations without exceptions and while loop.
+Basic
